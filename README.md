@@ -16,7 +16,7 @@
 1. Склонируйте репозиторий к себе на компьютер:
     
     ```
-    git clone <https://github.com/username/project.git>
+    git clone https://github.com/Khor-K/True-Games
     
     ```
     
